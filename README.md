@@ -1,1 +1,1 @@
-# BreastCanerPrediction
+# Breast Cancer Prediction
